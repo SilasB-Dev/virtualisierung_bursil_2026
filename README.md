@@ -16,3 +16,13 @@ Image löschen:
 ## Get-Rid-of-sudo
 
 Muss ich nicht -> arbeite auf Windows
+
+## Docker Hub
+
+ - Registrieren
+ - Repository erstellen
+ - docker login
+ - docker image tag pythonwebserver:latest silasdockerdev/pythonwebserver:latest
+ - docker push silasdockerdev/pythonwebserver:latest 
+
+https://hub.docker.com/repository/docker/silasdockerdev/pythonwebserver
