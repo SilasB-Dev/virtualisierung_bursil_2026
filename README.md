@@ -26,3 +26,9 @@ Muss ich nicht -> arbeite auf Windows
  - docker push silasdockerdev/pythonwebserver:latest 
 
 https://hub.docker.com/repository/docker/silasdockerdev/pythonwebserver
+
+## Container Performance
+
+ docker stats
+ docker stats --format "table {{.Container}}\t{{.CPUPerc}}\t{{.MemUsage}}"
+ docker stats --format "table {{.Container}}\t{{.Name}}\t{{.CPUPerc}}\t{{.MemUsage}}"
