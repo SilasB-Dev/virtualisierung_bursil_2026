@@ -12,3 +12,7 @@ Container löschen:
 `docker container rm <container id>`
 Image löschen:
 `docker image rm <image id>`
+
+## Get-Rid-of-sudo
+
+Muss ich nicht -> arbeite auf Windows
