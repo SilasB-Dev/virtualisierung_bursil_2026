@@ -1,0 +1,5 @@
+docker compose up -d
+time="2026-05-07T08:58:51+02:00" level=warning msg="C:\\Users\\silas\\Documents\\010_ZLI\\virtualisierung_bursil_2026\\wordpress\\docker-compose.yaml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+[+] up 2/2
+ ✔ Container wordpress-mysql-1     Running                                                                                                                  0.0s
+ ✔ Container wordpress-wordpress-1 Started   
